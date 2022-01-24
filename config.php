@@ -69,7 +69,7 @@ return [
             'token' => ''
         ],
         'smms' => [
-            'token' => '',
+            'token' => 'XFy6aJZwQVEfE1hfrAJxRmCuPBRxjh6B',
         ],
     ],
 
